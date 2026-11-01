@@ -35,4 +35,4 @@ ETH keeps earning rewards while it waits in the exit queue.
 | DeFi use | No | Yes |
 | Simplicity | Highest | Requires handling a token |
 
-The vault takes a fee from rewards. The APY shown is after it. DYXY adds no fee.
+The vault takes a fee from rewards. The APY shown is after it. DYXY charges a service fee on pooled staking.

@@ -34,7 +34,7 @@ flowchart TB
 
 ## Fees
 
-DYXY charges no fee on staking. Validators and staking protocols take their own commission, and the APY shown is after it. Network gas applies to each transaction.
+Native and liquid staking carry no DYXY fee. Pooled staking carries a DYXY service fee. Validators and staking protocols take their own commission, and the APY shown is after it. Network gas applies to each transaction.
 
 ## Rewards in the portfolio
 
