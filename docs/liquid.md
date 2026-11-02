@@ -2,11 +2,11 @@
 
 Liquid staking returns a token for staked assets. The token keeps earning and stays usable: it can be swapped, used as collateral or provided as liquidity.
 
-| Token | Stake | Protocol | Network |
-| --- | --- | --- | --- |
-| mSOL | SOL | Marinade | Solana |
-| osETH | ETH | StakeWise | Ethereum |
-| sAVAX | AVAX | BENQI | Avalanche |
+| Token | Stake | Network |
+| --- | --- | --- |
+| mSOL | SOL | Solana |
+| osETH | ETH | Ethereum |
+| sAVAX | AVAX | Avalanche |
 
 ## Reward-bearing tokens
 
@@ -30,7 +30,7 @@ flowchart LR
 | Token | Unstake through protocol |
 | --- | --- |
 | mSOL | Delayed unstake completes at the end of the Solana epoch, about 2 days |
-| osETH | StakeWise exit queue, tied to Ethereum's validator exit queue, usually a few days |
+| osETH | Exit queue, tied to Ethereum's validator exit queue, usually a few days |
 | sAVAX | 15-day cooldown, then a 2-day window to claim. If missed, the AVAX must be restaked and the unstake requested again |
 
 ## Using the token

@@ -20,7 +20,7 @@ flowchart TB
     U --> L["Liquid<br/>mSOL · osETH · sAVAX"]
     U --> P["Pooled<br/>ETH"]
     N --> V["Network validators"]
-    L --> LP["Marinade · StakeWise · BENQI"]
+    L --> LP["Liquid staking protocols"]
     P --> SW["StakeWise vault"]
 ```
 
