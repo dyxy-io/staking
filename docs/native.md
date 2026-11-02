@@ -24,7 +24,7 @@ stateDiagram-v2
     Inactive --> [*]: Withdraw SOL
 ```
 
-## Hyperliquid
+## HyperEVM
 
 ```mermaid
 stateDiagram-v2
